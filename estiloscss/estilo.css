@@ -6,3 +6,11 @@ h2{
     color: blueviolet;
     font-size: 15px;
 }
+div{
+    background: rgb(14, 12, 12);
+    color: coral;
+    width: 50%;
+}
+h3{
+    color: rgb(13, 38, 121);
+}
