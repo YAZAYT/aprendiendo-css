@@ -5,12 +5,29 @@ h1{
 h2{
     color: blueviolet;
     font-size: 15px;
+    
 }
 div{
     background: rgb(14, 12, 12);
     color: coral;
-    width: 50%;
+    width: 100%;
+    margin: 20px 50px;
 }
 h3{
-    color: rgb(13, 38, 121);
+    color: rgb(158, 209, 18);
 }
+article{
+    
+    width: 1000px;
+    background: rosybrown;
+    margin: 20px 50px;
+    padding: 30px;
+}
+aside{
+    background: royalblue;
+    width: 200%;
+    margin: 20px 50px;
+    padding: 30px;
+}
+
+
